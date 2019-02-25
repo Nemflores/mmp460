@@ -1,0 +1,25 @@
+body{
+	background-color: #dcb4e3;
+}
+
+#navbar{
+	font-size: 2em;
+}
+ul{
+	list-style-type: none;
+	text-align: right;
+	margin: 2em;
+
+
+}
+
+li{
+	display: inline;
+	padding: 1em;
+}
+
+li a{
+	text-decoration: none;
+	color: white;
+}
+
